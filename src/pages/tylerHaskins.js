@@ -15,7 +15,7 @@ export default function examplePage() {
           />
 
           <p className='description'>
-            Hello
+            Hello my name is Tyler Haskins I am a first year student at the University of Colorado Boulder. I am pursuing a BS in Computer Science.
           </p>
 
           <a className='button' href='/'>
